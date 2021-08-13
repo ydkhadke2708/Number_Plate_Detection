@@ -1,6 +1,5 @@
 #import prebuilt Packages
 import numpy as np
-import cv2
 import pytesseract
 pystesseract.pytesseract.tesseract_cmd = '/app/.apt/usr/bin/tesseract'
 import streamlit as st
