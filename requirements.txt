@@ -1,0 +1,7 @@
+#libraries needed 
+streamlit
+pytesseract
+opencv-python
+cv2
+numpy
+PIL
