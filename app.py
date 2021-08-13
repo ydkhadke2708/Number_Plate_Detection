@@ -1,5 +1,6 @@
 #import prebuilt Packages
 import numpy as np
+import os
 import pytesseract
 pytesseract.pytesseract.tesseract_cmd = '/app/.apt/usr/bin/tesseract'
 import cv2
