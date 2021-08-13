@@ -2,4 +2,3 @@ streamlit
 pytesseract
 opencv-python
 numpy
-PIL
