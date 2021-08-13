@@ -1,7 +1,7 @@
 #import prebuilt Packages
 import numpy as np
 import pytesseract
-pystesseract.pytesseract.tesseract_cmd = '/app/.apt/usr/bin/tesseract'
+pytesseract.pytesseract.tesseract_cmd = '/app/.apt/usr/bin/tesseract'
 import streamlit as st
 from PIL import Image
 st.title("CAR NUMBER PLATE DETECTION AND RECOGNITION")
