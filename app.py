@@ -2,6 +2,7 @@
 import numpy as np
 import pytesseract
 pytesseract.pytesseract.tesseract_cmd = '/app/.apt/usr/bin/tesseract'
+import cv2
 import streamlit as st
 from PIL import Image
 st.title("CAR NUMBER PLATE DETECTION AND RECOGNITION")
